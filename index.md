@@ -15,6 +15,11 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
 - Bulleted
 - List
 
