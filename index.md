@@ -3,18 +3,10 @@
 >I can use the [editor on GitHub](https://github.com/GrayWolf64/GrayWolf64.github.io/edit/main/index.md) to maintain and preview the content for my website in Markdown files. Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in my site, from the content in my Markdown files.
 
 ```markdown
-Something about Maths.
+//Something about code.
 
-$$
-  \begin{pmatrix}
-  1 & a_1 & a_1^2 & \cdots & a_1^n \\
-  1 & a_2 & a_2^2 & \cdots & a_2^n \\
-  \vdots & \vdots & \vdots & \ddots & \vdots \\
-  1 & a_m & a_m^2 & \cdots & a_m^n \\
-  \end{pmatrix}
-$$
+print("I will learn Rust soon")
 
-[Link](url) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
@@ -24,6 +16,17 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 | Tdai Shehren | Currently not on holiday|
 | Shal Shehren | Sometimes get online    |
 | ...          |       ...               |
+
+### Something about Maths
+
+$$
+  \begin{pmatrix}
+  1 & a_1 & a_1^2 & \cdots & Π_1^n \\
+  1 & a_2 & a_2^2 & \cdots & a_2^n \\
+  \vdots & \vdots & \vdots & \ddots & \vdots \\
+  1 & a_m & a_m^2 & \cdots & a_m^n \\
+  \end{pmatrix}
+$$
 
 ### Jekyll Themes Information
 
