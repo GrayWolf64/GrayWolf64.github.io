@@ -8,6 +8,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 # Table of Contents
 - test
+***
 
 #### Jekyll Themes Information
 
