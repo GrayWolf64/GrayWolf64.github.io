@@ -1,8 +1,6 @@
 ## Welcome to GrayWolf's Homepage!
 
-I can use the [editor on GitHub](https://github.com/GrayWolf64/GrayWolf64.github.io/edit/main/index.md) to maintain and preview the content for my website in Markdown files.
-
-Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in my site, from the content in my Markdown files.
+>I can use the [editor on GitHub](https://github.com/GrayWolf64/GrayWolf64.github.io/edit/main/index.md) to maintain and preview the content for my website in Markdown files. Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in my site, from the content in my Markdown files.
 
 ### Markdown Example
 
