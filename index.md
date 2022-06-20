@@ -15,10 +15,6 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 | Shal Shehren | Sometimes get online    |
 | ...          |       ...               |
 
-### Something about Maths
-
-$$\sum_{\substack{0<i<m\0<j<n}} P(i, j)$$
-
 ### Jekyll Themes Information
 
 This Pages site will use the layout and styles from the Jekyll theme you have selected in my [repository settings](https://github.com/GrayWolf64/GrayWolf64.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
