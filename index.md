@@ -19,14 +19,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Something about Maths
 
-$$
-  \begin{pmatrix}
-  1 & φ_1 & φ_1^2 & \cdots & φ_1^n \\
-  1 & φ_2 & φ_2^2 & \cdots & φ_2^n \\
-  \vdots & \vdots & \vdots & \ddots & \vdots \\
-  1 & φ_m & φ_m^2 & \cdots & φ_m^n \\
-  \end{pmatrix}
-$$
+$$ a + 1 = 1 + a $$
 
 ### Jekyll Themes Information
 
