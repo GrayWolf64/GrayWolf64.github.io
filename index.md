@@ -1,4 +1,4 @@
-# Welcome to GrayWolf's Homepage!
+# Welcome!
 
 > Greetings! I'am Tairikuookami, on the site.
 
