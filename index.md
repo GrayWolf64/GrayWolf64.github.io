@@ -4,9 +4,7 @@
 
 ```markdown
 //Something about code.
-
 print("I will learn Rust soon")
-
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
@@ -19,7 +17,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Something about Maths
 
-This can't be displayed properly on the site.
+$$H(D_2) = -\left(\frac{2}{4}\log_2 \frac{2}{4} + \frac{2}{4}\log_2 \frac{2}{4}\right) = 1$$
 
 ### Jekyll Themes Information
 
