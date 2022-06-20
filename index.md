@@ -17,7 +17,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Something about Maths
 
-$$H(D_2) = -\left(\frac{2}{4}\log_2 \frac{2}{4} + \frac{2}{4}\log_2 \frac{2}{4}\right) = 1$$
+\sum_{\substack{0<i<m\0<j<n}} P(i, j)
 
 ### Jekyll Themes Information
 
