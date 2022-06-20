@@ -19,7 +19,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Something about Maths
 
-$$ a + 1 = 1 + a $$
+This can't be displayed properly on the site.
 
 ### Jekyll Themes Information
 
