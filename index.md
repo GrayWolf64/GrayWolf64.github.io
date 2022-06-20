@@ -3,7 +3,7 @@
 > Greetings! I'am Tairikuookami, on the site.
 
 ## Table of Contents
-- test
+- [People](https://GrayWolf64.github.io/people)
 ***
 
 ### Support or Contact
