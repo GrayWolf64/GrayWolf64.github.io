@@ -4,6 +4,7 @@
 
 ## Table of Contents
 - [People](https://GrayWolf64.github.io/people)
+- [Social Platforms](https://GrayWolf64.github.io/socialplatforms)
 ***
 
 ### Support or Contact
