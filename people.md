@@ -1,8 +1,8 @@
 | Name   | Description |     Status      |
 | :------------ | :--------------: | --: |
-| GrayWolf      | About a person   | ... |
-| Tdai Shehren  |  A person        | ... |
-| Shal Shehren  |  A person        | ... |
-| Marisa        |  A person        | ... |
-| Pie           |  A person        | ... |
-| ...           |  ...             | ... |
+| GrayWolf      | About a person   | Studying On Holiday |
+| Tdai Shehren  |  A person        | On Holiday |
+| Shal Shehren  |  A person        | Unknown |
+| Marisa        |  A person        | Unknown |
+| Pie           |  A person        | Studying On Holiday |
+| ...           |  ...             | Unknown |
